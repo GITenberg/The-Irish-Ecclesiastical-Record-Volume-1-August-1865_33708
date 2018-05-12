@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33708#The-Irish-Ecclesiastical-Record-Volume-1-August-1865
 gutenberg_bookshelf: The Irish Ecclesiastical Record
 gutenberg_issued: '2010-09-12'
 gutenberg_type: Text
